@@ -6,7 +6,7 @@ Social's:
 
 
 [![Telegram Blank](https://img.shields.io/badge/Bogdan%20Parshintsev-41454a?&logo=telegram&logoColor=ffffff)](https://t.me/bparshintsev){:target="_blank"}
-[![VK Blank](https://img.shields.io/badge/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%20%D0%9F%D0%B0%D1%80%D1%88%D0%B8%D0%BD%D1%86%D0%B5%D0%B2-4680C2?    logo=vk&logoColor=ffffff)](https://vk.com/bparshintsev){:target="_blank"}
+[![VK Blank](https://img.shields.io/badge/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%20%D0%9F%D0%B0%D1%80%D1%88%D0%B8%D0%BD%D1%86%D0%B5%D0%B2-4680C2?logo=vk&logoColor=ffffff)](https://vk.com/bparshintsev){:target="_blank"}
 [![Mail Blank](https://img.shields.io/badge/bparshintsev@bk.ru-ea4335?&logo=gmail&logoColor=ffffff)](mailto:bparshintsev@bk.ru){:target="_blank"}
 
 <img src="https://img.shields.io/github/stars/bparshintsev">
