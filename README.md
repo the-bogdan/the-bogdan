@@ -16,7 +16,6 @@ Social's:
   </a>
 </p
 
-
 <p align="center">
-  <span><img src="https://img.shields.io/github/stars/bparshintsev"></span>
+  <img src="https://img.shields.io/github/stars/bparshintsev">
 </p>
