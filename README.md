@@ -4,7 +4,7 @@ I'm Bogdan Parshintsev from Russia, and I'm a python backend developer. I really
 
 Social's:
 
-<p align="center">
+<p>
   <a href="https://t.me/bparshintsev">
     <img src="https://img.shields.io/badge/Bogdan%20Parshintsev-41454a?&logo=telegram&logoColor=ffffff">
   </a>
@@ -17,4 +17,6 @@ Social's:
 </p
 
 
-<img src="https://img.shields.io/github/stars/bparshintsev">
+<p align="center">
+  <img src="https://img.shields.io/github/stars/bparshintsev">
+</p>
