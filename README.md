@@ -1,8 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Bogdan Parshintsev from Russia, and I'm a python backend developer. I really enjoy learning programming and frameworks like aoihttp, flask. Also my work is writing apis, docs, tests, writing and optimizing SQL queries. Creading microservices for different tasks, like scheduled events, oauth, stats writing to clickhouse and etc. Working with async code on python and continuous integration.
 
-Social's:
+## There are several of my projects:
+
+### Python:
+
+[REST server based on aiohttp and SQLAlchemy ORM](https://github.com/bparshintsev/aiohttp-server)
+
+[RPC server based on aiohttp and SQLAlchemy core](https://github.com/bparshintsev/aiohttp-rpc)
+
+### Docker:
+
+[Run 3 instances of clickhouse with replication using zookeeper in docker with docker-compose](https://github.com/bparshintsev/docker.clickhouse_cluser_with_replication)
+
+### C:
+
+[3-axis mechatronic module](https://github.com/bparshintsev/bachelor_diplom)
+
+[WS2812B led control with arduino](https://github.com/bparshintsev/arduino.led_ws2812b_control)
+
+[LCD screen with DS3231 time counter on arduino](https://github.com/bparshintsev/arduino.lcd_ds32131_control)
+
+
+
+
+## Social's:
 
 <p>
   <a href="https://t.me/bparshintsev">
@@ -14,8 +37,9 @@ Social's:
   <a href="mailto:bparshintsev@bk.ru">
     <img src="https://img.shields.io/badge/bparshintsev@bk.ru-ea4335?&logo=gmail&logoColor=ffffff">
   </a>
-</p
+</p>
+
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/bparshintsev">
+  <span><img src="https://img.shields.io/github/stars/bparshintsev"></span>
 </p>
