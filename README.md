@@ -4,7 +4,13 @@ I'm Bogdan Parshintsev from Russia, and I'm a python backend developer. I really
 
 ## There are several of my projects:
 
+### Golang:
+
+[Pprof task for learning profiling](https://github.com/the-bogdan/pprof-task)
+
 ### Python:
+
+[Browser game bot](https://github.com/the-bogdan/mmo-bot) Just for fun :)
 
 [REST server based on aiohttp and SQLAlchemy ORM](https://github.com/the-bogdan/aiohttp-server)
 
